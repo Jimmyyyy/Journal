@@ -9,4 +9,4 @@ for us to display our skills.
 
 5/5/17
 
-Today we have finally decided on exactly what we will do. We will make a pokemon demo that will demonstrate the movement of the character as well as the combat of the character. We will be doing the entire project in snap or java or javascript.
+Today we have finally decided on exactly what we will do. We will make a game similar to the plague inc game. We will be doing the entire project in java.
