@@ -13,4 +13,4 @@ Today we have finally decided on exactly what we will do. We will make a game si
 
 5/8/17
 
-My group is thinking of what parts of the actual game to implement into our own. For example, the actual game shows a plane moving from one country to another when the disease is on the plane. We have decided to use that for our game as well. 
+My group is thinking of what parts of the actual game to implement into our own. For example, the actual game shows a plane moving from one country to another when the disease is on the plane. We have decided to use that for our game as well. Tracey and Wendy will be working on spreading the disease while Joseph and me will be working on cure. Ivan is working on gui and looks.
