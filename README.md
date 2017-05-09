@@ -17,4 +17,5 @@ My group is thinking of what parts of the actual game to implement into our own.
 
 5/9/17
 
-Ivan and I started coding our classes. I have also decided to do the news class which will be part of the game that displays what the current state/news is occuring around the world. The news will change according to the current time and date of the game. Since I will be doing the cure as well, once the cure starts, the news will display that scientists are currently working on a cure.
+Ivan and I started coding our classes. I have also decided to do the news class which will be part of the game that displays what the current state/news is occuring around the world. The news will change according to the current time and date of the game. Since I will be doing the cure as well, once the cure starts, the news will display that scientists are currently working on a cure. 
+
