@@ -14,3 +14,7 @@ Today we have finally decided on exactly what we will do. We will make a game si
 5/8/17
 
 My group is thinking of what parts of the actual game to implement into our own. For example, the actual game shows a plane moving from one country to another when the disease is on the plane. We have decided to use that for our game as well. Tracey and Wendy will be working on spreading the disease while Joseph and me will be working on cure. Ivan is working on gui and looks.
+
+5/9/17
+
+Ivan and I started coding our classes. I have also decided to do the news class which will be part of the game that displays what the current state/news is occuring around the world. The news will change according to the current time and date of the game. Since I will be doing the cure as well, once the cure starts, the news will display that scientists are currently working on a cure.
