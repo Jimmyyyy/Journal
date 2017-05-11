@@ -23,3 +23,7 @@ Ivan and I started coding our classes. I have also decided to do the news class 
 
 I will start working on the map of the U.S so we can use that as our background for the game. Also, each state will have 5 different dollars. Everytime the percentage of the total population of the state that is infected increases by 25 percent, the state will turn to a darker shade of red until it reaches 100 percent where it will be the darkest shade of red. Once the entire population is killed, the state will turn black. If the state's population is 100 percent healthy, it will be the normal color of green. 
 Also started adding the news text.
+
+5/11/17
+
+Today Joseph, Ivan and I worked together on the cure class. We have decided to use percentages of the population in order to activate the cure. For example, if 10 percent of the entire population is infected, a message will display that recently, there has been a disease spreading around. Once the percent hits 20, the cure will start.
