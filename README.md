@@ -27,3 +27,7 @@ Also started adding the news text.
 5/11/17
 
 Today Joseph, Ivan and I worked together on the cure class. We have decided to use percentages of the population in order to activate the cure. For example, if 10 percent of the entire population is infected, a message will display that recently, there has been a disease spreading around. Once the percent hits 20, the cure will start.
+
+5/12/17 
+
+Continued working on news class. Added more news and created getters.
