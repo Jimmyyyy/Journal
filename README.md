@@ -32,6 +32,9 @@ Today Joseph, Ivan and I worked together on the cure class. We have decided to u
 
 Continued working on news class. Added more news and created getters.
 
-5/13/17
+5/15/17
 
-Joseph, Ivan and I got a working test cure class running that does count every 2 seconds as a day and we were also able to call a method from the cure class every 2 seconds to check if the cure should start or not. Tomorrow we will start programming how the cure class works after it runs.
+Joseph, Ivan and I got a working test cure class running that counts every 2 seconds as a day and we were also able to call a method from the cure class every 2 seconds to check if the cure should start or not. Tomorrow we will start programming how the cure class works after it runs.
+
+5/16/17
+
