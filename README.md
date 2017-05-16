@@ -38,4 +38,4 @@ Joseph, Ivan and I got a working test cure class running that counts every 2 sec
 
 5/16/17
 
-Today I worked on the isDetected method of the cure class.
+Today I worked on the isDetected method in the cure class.
