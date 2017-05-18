@@ -43,3 +43,7 @@ Today I worked on the isDetected method in the cure class.
 5/17/17
 
 Today Joseph completed his method that counts the months and days correctly. I was able to use this method to implement it into my cure class so every 10 days, the cure will increase by 1 percent.
+
+5/18/17
+
+Today Joseph and I were able to make a method that calculates the remaining time we have before the cure is 100 percent completed.
