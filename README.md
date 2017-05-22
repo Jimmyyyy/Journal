@@ -47,3 +47,7 @@ Today Joseph completed his method that counts the months and days correctly. I w
 5/18/17
 
 Today Joseph and I were able to make a method that calculates the remaining time we have before the cure is 100 percent completed.
+
+5/22/17 
+
+Worked on the cure class and improved isDetected method.
