@@ -51,3 +51,7 @@ Today Joseph and I were able to make a method that calculates the remaining time
 5/22/17 
 
 Worked on the cure class and improved isDetected method.
+
+5/23/17
+
+Joseph and I were able to complete the accurate calculation of how long it would take to complete the cure. It now also calculates the days left instead of just years.
