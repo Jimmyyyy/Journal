@@ -55,3 +55,7 @@ Worked on the cure class and improved isDetected method.
 5/23/17
 
 Joseph and I were able to complete the accurate calculation of how long it would take to complete the cure. It now also calculates the days left instead of just years.
+
+5/24/17
+
+Today Joseph and I were able to debug an error where it would take 20 days to make the cure percentage increase. Once enough people are infected, the days should change to 15 but instead it turns to 5 and then 15.
