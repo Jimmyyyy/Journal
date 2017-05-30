@@ -59,3 +59,7 @@ Joseph and I were able to complete the accurate calculation of how long it would
 5/24/17
 
 Today Joseph and I were able to debug an error where it would take 20 days to make the cure percentage increase. Once enough people are infected, the days should change to 15 but instead it turns to 5 and then 15.
+
+5/30/17
+
+Added more news statements for the news class.
