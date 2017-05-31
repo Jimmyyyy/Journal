@@ -63,3 +63,7 @@ Today Joseph and I were able to debug an error where it would take 20 days to ma
 5/30/17
 
 Added more news statements for the news class.
+
+5/31/17
+
+Made it possible to display a screen and also print the dates on the console. We just have to try and print the dates onto the screen now.
