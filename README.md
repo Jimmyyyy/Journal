@@ -67,3 +67,11 @@ Added more news statements for the news class.
 5/31/17
 
 Made it possible to display a screen and also print the dates on the console. We just have to try and print the dates onto the screen now.
+
+6/1/17
+
+Rewrote some missing lines of code that was missing since we didn't push.
+
+6/2/17 
+
+Added what would happen to the cure class once curePercentage increases to 100.
