@@ -75,3 +75,7 @@ Rewrote some missing lines of code that was missing since we didn't push.
 6/2/17 
 
 Added what would happen to the cure class once curePercentage increases to 100.
+
+6/5/17
+
+Finished with what the cure class would do once cure Percentage increases to 100. 
