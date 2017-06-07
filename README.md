@@ -233,3 +233,6 @@ public class Cure {
 	}
 }
 
+6/7/17
+
+Completed cure class more.
